@@ -1,1 +1,26 @@
-{"name":"Swim Family","short_name":"Swim Family","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f5f8fc","theme_color":"#0866ff","description":"Gare e tempi di Nello e Ilenia"}
+{
+  "name": "Swim Family",
+  "short_name": "Swim Family",
+  "description": "Tempi e gare di Nello e Ilenia",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f8fc",
+  "theme_color": "#0866ff",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
